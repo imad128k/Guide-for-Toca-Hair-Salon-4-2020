@@ -3,7 +3,7 @@
 
   "scertGfxAds" : {
       
-      "NetworkAds" : "Facebook",
+      "NetworkAds" : "admob",
 
     "AdmobBanner" : "ca-app-pub-3898990165445847/9746874146",
 	"AdmobInterstitial" : "ca-app-pub-3898990165445847/9250876669",
